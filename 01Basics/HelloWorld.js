@@ -1,1 +1,4 @@
-console.log('Hello World - I will master you, JavaScript!');
+console.log('---------------');
+console.log('Hello World');
+console.log('Rise & Shine');
+console.log('---------------');
